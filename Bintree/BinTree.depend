@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1418739201 source:d:\bintree\fungsi.c
+	"header.h"
+
+1418739020 d:\bintree\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1418738997 d:\bintree\boolean.h
+
+1418739605 source:d:\bintree\main.c
+	"header.h"
+
